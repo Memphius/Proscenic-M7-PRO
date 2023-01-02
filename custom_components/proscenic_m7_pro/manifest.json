@@ -1,0 +1,12 @@
+{
+  "domain": "Proscenic-M7-Pro",
+  "name": "Proscenic M7 Pro Vacuum",
+  "documentation": "https://github.com/andker87/Proscenic-M7-PRO/",
+  "issue_tracker": "https://github.com/andker87/Proscenic-M7-PRO/issues",
+  "dependencies": [],
+  "codeowners": ["@andker87"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "version": "0.1.1"
+}
